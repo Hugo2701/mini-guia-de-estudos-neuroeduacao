@@ -7,3 +7,4 @@ CONTEXTO: A neuroeducação surge da integração entre neurociência, psicologi
 OBJETIVO: Apresentar conceitos fundamentais de neuroeducação, apoiar educadores na elaboração de estratégias didáticas mais eficazes e significativas e estimular o uso consciente de conhecimentos sobre o cérebro no planejamento de aulas, currículos e projetos formativos.
 
 CURADORIA DE FONTES: https://locus.ufv.br/server/api/core/bitstreams/166db0da-b679-4267-9009-7d64a524bdb2/content
+                     https://doi.org/10.24065/2237-9460.2019v9n3id926
