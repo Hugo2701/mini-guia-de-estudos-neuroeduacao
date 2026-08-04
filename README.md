@@ -10,6 +10,7 @@ CURADORIA DE FONTES: https://locus.ufv.br/server/api/core/bitstreams/166db0da-b6
 CURADORIA DE FONTES: https://doi.org/10.24065/2237-9460.2019v9n3id926
 CURADORIA DE FONTES: https://drive.google.com/file/d/1cJxHXN7Ldcqgjcf86N6MfVHgkx_3l6LT/view?usp=drive_link
 CURADORIA DE FONTES: https://drive.google.com/file/d/1cAltVIJG3x2G28op1Z1fg-v4AUUQWQHL/view?usp=drive_link
+CURADORIA DE FONTES: https://www.youtube.com/watch?v=9HrVoKHtzQU&t=304s
 
 Engenharia de Prompt: Use esta estrutura como modelo e depois ajuste conforme o objetivo específico:
 
